@@ -5,6 +5,7 @@
 <center><em>Photo by 
 Omnitec Group </em></center>
 
+Demo link - https://huggingface.co/spaces/gouravs300/ANPR
 
 Automated recognizing of Vehicle number is an valuable solution and can be used for the following applications.
  - Law Enforcement , Verify vehicle license and registration. Provides an automatic alert when blacklisted vehicles pass by
